@@ -7,5 +7,7 @@ while i<collection.size
   puts i
 end
 
-
 end
+
+
+my_collect([1,2,3])
