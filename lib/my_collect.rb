@@ -10,4 +10,4 @@ new_collection
 end
 
 
-my_collect
+my_collection(collection)
