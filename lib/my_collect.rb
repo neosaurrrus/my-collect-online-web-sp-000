@@ -11,4 +11,3 @@ end
 
 
 my_collect(array) {block}
-
