@@ -10,4 +10,5 @@ new_collection
 end
 
 
-my_collect([1,2,3])
+my_collect(array) do | name|
+    name.split(" ").first
