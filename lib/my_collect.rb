@@ -10,4 +10,4 @@ new_collection
 end
 
 
-my_collect(collection) {block}
+my_collect(collection){}
