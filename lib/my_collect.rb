@@ -4,7 +4,7 @@ i=0
 new_collection =[]
 while i<collection.size
   i += 1
-  yield(collection[i])
+  new_collection << yield(collection[i])
 end
 new_collection
 end
